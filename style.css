@@ -17,21 +17,22 @@ body {
 }
 h1 {
   font-family: 'Helvetica', Sans-serif;
-  font-size: 4rem;
+  font-size: 6rem;
   margin-bottom: 0.5em;
   color: #4B2F2F;
 }
 h2 {
   font-family: 'Helvetica', Sans-serif;
-  font-size: 4rem;
+  font-size: 6rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
   color: #4B2F2F;
 }
 p {
   font-family: 'Helvetica', Sans-serif;
-  font-size: 1.8rem;
+  font-size: 2rem;
   margin-top: 0;
   margin-bottom: 0;
   color: #4B2F2F;
 }
+
